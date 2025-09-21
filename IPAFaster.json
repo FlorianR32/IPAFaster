@@ -1,0 +1,141 @@
+{
+  "name": "IPAFaster",
+  "subtitle": "",
+  "description": "",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#e2a456",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "Disney Magic Match 3D",
+      "bundleIdentifier": "com.jamcity.pdt",
+      "marketplaceID": "6468690398",
+      "developerName": "jamcity",
+      "subtitle": "",
+      "localizedDescription": "",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/13/ac/0313ac31-7533-8dcb-3f22-1d92a11d1b8d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/230x0w.webp",
+      "tintColor": "#fcbc04",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://drive.ecomail.earth/index.php/s/zeEw2fJnZDf6tHT/download/Disney_Magic_Match_3D_ipaomtk.com.ipa",
+          "size": 214300000,
+          "version": "5.0.0",
+          "buildVersion": null,
+          "date": "2025-09-21T14:37:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://adjust-skadnetwork.com",
+          "NSPhotoLibraryUsageDescription": "We need to access photos library to allow users manually pick images meant to be sent as an attachment for help and support reasons.",
+          "NSUserTrackingUsageDescription": "This allows us to provide you with a better ads experience."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Brain Test 3 : Quêtes",
+      "bundleIdentifier": "com.unicostudio.braintest3",
+      "marketplaceID": "1569102341",
+      "developerName": "unicostudio",
+      "subtitle": "",
+      "localizedDescription": "",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/00/96/e10096a8-e38e-5da3-723c-fa4d0a61c659/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/230x0w.webp",
+      "tintColor": "#c06e6e",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://drive.ecomail.earth/index.php/s/MQ6korE7YcR6ZGT/download/Brain%20Test%203%20IAP%201.76.9.ipa",
+          "size": 124900000,
+          "version": "1.76.9",
+          "buildVersion": null,
+          "date": "2025-09-21T14:31:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "Store calendar events from ads",
+          "NSLocationWhenInUseUsageDescription": "Brain Test 3 requires location access to provide location-based features.",
+          "NSPhotoLibraryAddUsageDescription": "Save media to Photos",
+          "NSPhotoLibraryUsageDescription": "Save media to Photos",
+          "NSUserTrackingUsageDescription": "This allows Brain Test 3 to provide you with a better ads experience."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "60 Parsecs!",
+      "bundleIdentifier": "com.robotgentleman.game60parsecs",
+      "marketplaceID": "1291429551",
+      "developerName": "robotgentleman",
+      "subtitle": "",
+      "localizedDescription": "",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f2/39/b1/f239b1cb-796b-e8b8-b8df-40cdc1a3867e/PlayerIcon.png/230x0w.webp",
+      "tintColor": "#ac944c",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://drive.ecomail.earth/index.php/s/DmygXrxmqg2NJBf/download/60_Parsecs!_ipaomtk.com.ipa",
+          "size": 207000000,
+          "version": "1.3.3",
+          "buildVersion": null,
+          "date": "2025-09-21T14:28:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryAddUsageDescription": "Save media to Photos",
+          "NSPhotoLibraryUsageDescription": "Save media to Photos"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "60 Seconds! Reatomized",
+      "bundleIdentifier": "com.robotgentleman.game60secondsreatomized",
+      "marketplaceID": "1474716211",
+      "developerName": "Example Developer",
+      "subtitle": "",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/13/40/36/13403693-9b9f-754f-6908-b524732a6535/PlayerIcon.png/230x0w.webp",
+      "tintColor": "#6156e2",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://drive.ecomail.earth/index.php/s/o5WszaxGNPS33Dj/download/60%20Seconds!%20Reatomized%20%5Bv1.2.5%5D%28tg@ipa_dark%29.ipa",
+          "size": 181800000,
+          "version": "1.2.5",
+          "buildVersion": null,
+          "date": "2025-09-21T14:10:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryAddUsageDescription": "Save media to Photos",
+          "NSPhotoLibraryUsageDescription": "Save media to Photos"
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
