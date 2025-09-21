@@ -9,11 +9,43 @@
   "featuredApps": [],
   "apps": [
     {
+      "name": "WallpapersCentral",
+      "bundleIdentifier": "com.ispazio.Wallpapers-Central",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/P6qYCT2.png",
+      "tintColor": "#f49454",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://ipafaster-drive.mycozy.cloud/public?sharecode=9Z3BQyTsrSp8",
+          "size": 25300000,
+          "version": "2.0.3",
+          "buildVersion": null,
+          "date": "2025-09-21T21:40:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAccentColorName": "AccentColor",
+          "NSPhotoLibraryAddUsageDescription": "This app needs access to your photo library to save wallpapers to your camera roll.",
+          "NSUserTrackingUsageDescription": "Give permission to show ads that are more relevant to you"
+        }
+      },
+      "patreon": {}
+    },
+    {
       "name": "Disney Magic Match 3D",
       "bundleIdentifier": "com.jamcity.pdt",
       "marketplaceID": "6468690398",
       "developerName": "jamcity",
-      "subtitle": "",
+      "subtitle": "An awesome app.",
       "localizedDescription": "Disney Magic Match 3D est un tout nouveau jeu d'association en 3D où vous résoudrez des énigmes Disney captivantes en triant et en collectant des objets emblématiques des films Disney et Pixar, comme Vaiana, Aladdin et Toy Story. Plongez dans le monde enchanteur de Disney Magic Match 3D, une aventure captivante et pleine de trésors Disney ! L'ancien Livre de Magie Disney, rempli d'objets emblématiques, s'est ouvert, libérant un tourbillon de nostalgie. Votre mission est de remettre ces précieux objets à leur place en triant et en associant les pièces dans des énigmes magiques.\n\n\nDÉCOUVREZ LES TRÉSORS EMBLÉMATIQUES DISNEY 3D !\n\n\nExplorez de superbes puzzles 3D inspirés de vos films Disney préférés et découvrez une vaste sélection d'objets nostalgiques. Des gants emblématiques de Mickey Mouse à la lampe magique d'Aladdin en passant par les bottes classiques de Woody de Toy Story, chaque pièce 3D regorge du charme Disney. Débloquez de nouveaux chapitres du livre magique et découvrez encore plus de trésors Disney emblématiques dans les Niveaux Enchantés ! Ces niveaux incluent des pièces thématiques de vos films préférés ou de personnages nostalgiques, avec des pièces de personnages Disney classiques, comme les chaussures de Mickey Mouse, le nœud de Minnie Mouse et le chapeau de Donald Duck.\n\n\nTRIEZ ET ASSOCIEZ DANS LES PUZZLES EMBLÉMATIQUES DE DISNEY !\n\n\nTestez vos compétences avec une variété de puzzles Disney captivants qui stimuleront votre esprit et raviveront votre nostalgie. Associez et triez des objets Disney dispersés, du Cœur de Te Fiti de Moana à une vaste collection de robes de princesses Disney. En identifiant et en triant les objets dispersés, chaque association réussie vous rapproche de la restauration de l'ordre dans l'univers Disney. Ressentez la satisfaction de remettre les trésors à leur place dans Disney Magic Match 3D !\n\n\nTéléchargez Disney Magic Match 3D et découvrez les puzzles Disney enchanteurs d'Aladdin, Toy Story, Moana et plus encore !\n",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/13/ac/0313ac31-7533-8dcb-3f22-1d92a11d1b8d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/230x0w.webp",
       "tintColor": "#fcbc04",
@@ -28,12 +60,12 @@
       ],
       "versions": [
         {
-          "downloadURL": "http://192.168.1.88/mesipa/Disney_Magic_Match_3D_ipaomtk.com.ipa",
-          "size": 214300000,
           "version": "5.0.0",
-          "buildVersion": null,
           "date": "2025-09-21T12:37:00+02:00",
           "localizedDescription": null,
+          "downloadURL": "http://192.168.1.88/mesipa/Disney_Magic_Match_3D_ipaomtk.com.ipa",
+          "size": 214300000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -52,7 +84,7 @@
       "bundleIdentifier": "com.unicostudio.braintest3",
       "marketplaceID": "1569102341",
       "developerName": "unicostudio",
-      "subtitle": "",
+      "subtitle": "An awesome app.",
       "localizedDescription": "Accompagnez Alix pour l’aider à trouver six gemmes du pouvoir et sauver son père mourant. Au cours de l’aventure, vous devrez résoudre des casse-têtes complexes et vous retrouverez les personnages emblématiques de la franchise Brain Test.\n\n\n\nBrain Test est un jeu de réflexion cérébral gratuit et addictif avec une série de casse-tête délicats pour une détente cérébrale. Ces jeux d'esprit hors ligne, jeux cérébraux, tests de QI, jeux de réflexion et jeux de réflexion sont parfaits pour ceux qui aiment les exercices cérébraux.\n\n\nAvez-vous les compétences nécessaires pour résoudre les énigmes les plus difficiles ? Êtes-vous capable de trouver des indices et de faire travailler vos méninges pour résoudre des casse-têtes logiques ? Seuls les joueurs les plus intelligents peuvent terminer l’histoire difficile de Brain Test 3 et prouver leur maîtrise des casse-têtes. Ce jeu est un nouveau jeu et un jeu hors ligne. Aussi l'un des meilleurs jeux au monde.\n\n\nUne longue histoire bourrée d’aventure et de réflexion\n\nBrain Test 3 reprend et améliore la formule à succès de Brain Test : casse-têtes et de Brain Test 2 : Aventures et casse-têtes, en associant énigmes complexes et scénario épique. Accompagnez Alix dans une aventure dangereuse. Trouvez les gemmes bleue, rouge, verte, jaune, bleu clair et violette pour obtenir une puissance infinie et rejoindre les meilleurs joueurs. Les jeux cérébraux et les jeux iq sont destinés à améliorer le cerveau. Vous pouvez jouer aux meilleurs jeux hors ligne.\n\n\nSystème d’inventaire et éléments interactifs\n\nBrain Test n’a jamais été aussi interactif. Ramassez des objets, placez-les dans votre inventaire et utilisez-les pour résoudre des casse-têtes. Vous pouvez aussi associer les objets dans l’inventaire pour en créer de nouveau. L’inventaire s'ajoute aux outils des joueurs au QI élevé. Aucune énigme ne sera laissée sans réponse.\n\n\nAmélioration du système d’aide et d’indice\n\nPour vous aider à résoudre les énigmes et casse-têtes les plus complexes, nous avons amélioré le système d’indice. Les joueurs peuvent débloquer plus d’indices pour mieux comprendre les objectifs. Le nouveau système d’aide permet d’avancer dans les énigmes en découvrant l’étape suivante.\n\n\nNiveaux de dialogue et de discussion\n\nAlix rencontre des dizaines de personnages au cours de sa longue aventure. Vous devrez choisir les bonnes propositions de dialogue pour convaincre les personnages. Comme dans un véritable jeu de rôle, participez à des dialogues profonds et complexes avec les PNJ. Leurs réponses vous induisent en erreur.\n\n\nAménagez votre atelier\n\nBrain Test 3 introduit un système de construction complexe. Construisez et améliorez l’atelier d’Alix. Ajoute des générateurs passifs de ressources pour faciliter vos aventures. Découvrez les outils et les machines de l’atelier.\n\n\nNiveaux d’action bonus\n\nRejoignez l’agent Dupont dans une longue aventure bourrée d’action. Dans ces niveaux complexes et palpitants, mettez à l’épreuve votre intelligence et vos réflexes. Tirez sur vos ennemis, sautez par-dessus les obstacles et arrêtez les méchants dans ces niveaux bonus bourrés d’action.\n\n\nCaractéristiques :\n\n● Des casse-têtes difficiles et palpitants.\n\n● Des énigmes de logique inversée.\n\n● Des énigmes et des casse-têtes mystérieux.\n\n● Un système de dialogue et de discussion complexe.\n\n● Des options de jeu de rôle.\n\n● Vos choix sont importants.\n\n● Plus de 100 niveaux.\n\n● Entraînement cérébral pour les grands et les petits.\n\n● Apprenez à changer de perspective.\n\n● Un gameplay simple et addictif.\n\n● Des graphismes et des animations améliorés.\n\n● Un gameplay basé sur le scénario.\n\n● Des options de personnalisation avec des costumes, des animaux et un atelier.\n\n● Jouable à une seule main.\n\n● Disponible hors-ligne.\n\n● Jouable et téléchargeable entièrement gratuitement.\n\n\nEntraînez votre cerveau avec une aventure complexe bourrée d’énigmes et de casse-têtes ! Téléchargez le jeu pour aider Alix à sauver son père!\n",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/00/96/e10096a8-e38e-5da3-723c-fa4d0a61c659/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/230x0w.webp",
       "tintColor": "#c06e6e",
@@ -65,12 +97,12 @@
       ],
       "versions": [
         {
-          "downloadURL": "http://192.168.1.88/mesipa/Brain%20Test%203%20IAP%201.76.9.ipa",
-          "size": 124900000,
           "version": "1.76.9",
-          "buildVersion": null,
           "date": "2025-09-21T12:31:00+02:00",
           "localizedDescription": null,
+          "downloadURL": "http://192.168.1.88/mesipa/Brain%20Test%203%20IAP%201.76.9.ipa",
+          "size": 124900000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -91,20 +123,20 @@
       "bundleIdentifier": "com.robotgentleman.game60parsecs",
       "marketplaceID": "1291429551",
       "developerName": "robotgentleman",
-      "subtitle": "",
-      "localizedDescription": "",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f2/39/b1/f239b1cb-796b-e8b8-b8df-40cdc1a3867e/PlayerIcon.png/230x0w.webp",
       "tintColor": "#ac944c",
       "category": "games",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://drive.ecomail.earth/index.php/s/DmygXrxmqg2NJBf/download/60_Parsecs!_ipaomtk.com.ipa",
-          "size": 207000000,
           "version": "1.3.3",
-          "buildVersion": null,
           "date": "2025-09-21T14:28:00+02:00",
           "localizedDescription": null,
+          "downloadURL": "https://drive.ecomail.earth/index.php/s/DmygXrxmqg2NJBf/download/60_Parsecs!_ipaomtk.com.ipa",
+          "size": 207000000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -122,7 +154,7 @@
       "bundleIdentifier": "com.robotgentleman.game60secondsreatomized",
       "marketplaceID": "1474716211",
       "developerName": "Example Developer",
-      "subtitle": "",
+      "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/13/40/36/13403693-9b9f-754f-6908-b524732a6535/PlayerIcon.png/230x0w.webp",
       "tintColor": "#6156e2",
@@ -130,12 +162,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "http://192.168.1.88/mesipa/60%20Seconds!%20Reatomized%20%5bv1.2.5%5d(tg@ipa_dark).ipa",
-          "size": 181800000,
           "version": "1.2.5",
-          "buildVersion": null,
           "date": "2025-09-21T06:10:00+02:00",
           "localizedDescription": null,
+          "downloadURL": "http://192.168.1.88/mesipa/60%20Seconds!%20Reatomized%20%5bv1.2.5%5d(tg@ipa_dark).ipa",
+          "size": 181800000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
