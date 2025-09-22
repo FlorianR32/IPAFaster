@@ -21,12 +21,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://ipafaster-drive.mycozy.cloud/public?sharecode=9Z3BQyTsrSp8",
-          "size": 25300000,
           "version": "2.0.3",
-          "buildVersion": null,
           "date": "2025-09-21T21:40:00+02:00",
           "localizedDescription": null,
+          "downloadURL": "https://ipafaster-drive.mycozy.cloud/public?sharecode=9Z3BQyTsrSp8",
+          "size": 25300000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -153,9 +153,9 @@
       "name": "60 Seconds! Reatomized",
       "bundleIdentifier": "com.robotgentleman.game60secondsreatomized",
       "marketplaceID": "1474716211",
-      "developerName": "Example Developer",
-      "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "developerName": "robotgentleman",
+      "subtitle": "",
+      "localizedDescription": "La comédie post-apocalyptique est de retour, remasterisée et radioactive comme jamais !\n\n\nDans 60 Seconds! Reatomized, Dolores, Ted, Mary Jane et Timmy sont de retour pour affronter l'apocalypse nucléaire dans cette nouvelle édition remasterisée de l'aventure atomique classique avec une prise en charge 4K, des graphismes 2D revisités et des textures 3D peintes à la main, un nouveau menu interactif, une interface améliorée, une actualisation technique, et... du nouveau contenu !\n\n\nNOUVEAU MODE DE JEU\n\nAu travers de défis de survie, des histoires courtes et uniques mettront vos compétences de survie à l'épreuve !\n\n\nDE NOUVELLES OCCASIONS\n\nde quitter les terres ravagées qui vous entourent au fil de plusieurs parties ! Saurez-vous vous échapper avec style ?\n\n\nNOUVEAU SYSTÈME DE RELATIONS\n\nplus d'histoires et d'interactions étranges entre les membres de la famille !\n\n\nNOUVEAUX CONTENUS AUDIO ET VISUELS\n\nà déverrouiller pour agrémenter votre abri antiatomique !\n\n\nNOUVEAUX EXPLOITS !\n\n\nVous n'avez que 60 secondes avant l'impact pour partir à la recherche des membres de la famille et de ressources utiles à travers la maison. Tout est contre vous : le temps, vos meubles, votre maison qui change à chaque partie... Qu'allez-vous sauver et qu'allez-vous laisser derrière vous ?\n\n\nAtteindre l'abri antiatomique à temps n'est que le début de la partie. Ce que vous avez récupéré et ceux que vous avez sauvés joueront un rôle vital dans votre survie. Chaque partie sera différente, avec des événements quotidiens surprenants et inattendus. Votre histoire se finira-t-elle bien ? Tout repose sur vous. Rationnez l'eau et la nourriture, utilisez vos provisions avec parcimonie, affrontez des choix cornéliens et aventurez-vous à la surface.\n\n\nBonne chance.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/13/40/36/13403693-9b9f-754f-6908-b524732a6535/PlayerIcon.png/230x0w.webp",
       "tintColor": "#6156e2",
       "category": "games",
@@ -163,9 +163,9 @@
       "versions": [
         {
           "version": "1.2.5",
-          "date": "2025-09-21T06:10:00+02:00",
+          "date": "2025-09-21T04:10:00+02:00",
           "localizedDescription": null,
-          "downloadURL": "http://192.168.1.88/mesipa/60%20Seconds!%20Reatomized%20%5bv1.2.5%5d(tg@ipa_dark).ipa",
+          "downloadURL": "http://192.168.1.88/IPA/60SecondsReatomized.ipa",
           "size": 181800000,
           "buildVersion": null,
           "minOSVersion": null
